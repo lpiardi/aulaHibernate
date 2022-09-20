@@ -13,7 +13,7 @@ import javax.persistence.Table;
 
 /**
  *
- * @author taniabasso
+ * @author taniabasso xxxx
  */
 @Entity
 @Table (name="AlunoHib")
